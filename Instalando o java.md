@@ -1,4 +1,4 @@
-r'''# Instalando o Java
+# Instalando o Java
 
 Existem diferentes formas de instalar o Java, e cada uma pode ser mais conveniente dependendo do ambiente em que estamos trabalhando.
 
